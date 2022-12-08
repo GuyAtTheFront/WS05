@@ -21,8 +21,8 @@ public class fortunecookie {
         //   - Comment out one of lines to choose mode to run
         //   - so you dont have to compile + run form console to pass in args
         // String[] myArgs = {"fc.Server", "12345", "cookie_file.txt"};
-        String[] myArgs = {"fc.Client", "localhost:12345"};
-        args = myArgs;
+        // String[] myArgs = {"fc.Client", "localhost:12345"};
+        // args = myArgs;
         
         //------------------------
         //  Args Validation Start
